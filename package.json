@@ -3,9 +3,10 @@
   "version": "0.0.0",
   "private": true,
   "dependencies": {
-    "react-dom": "17.0.2",
-    "react": "17.0.2",
+    "@antv/x6": "1.31.0",
     "elkjs": "0.7.1",
-    "@antv/x6": "1.31.0"
+    "react": "17.0.2",
+    "react-dom": "17.0.2",
+    "web-worker": "^1.2.0"
   }
 }
